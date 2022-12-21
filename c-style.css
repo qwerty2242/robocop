@@ -1,3 +1,7 @@
+/* C Styles */
+.icon-phone-with-text{margin-right: 10px;}
+
+
 /* social media icon */
 .icon-social { list-style: none; padding: 0; }
 .icon-social li { display: inline-block; }
@@ -26,3 +30,5 @@
 /* social icon style */
 .social-icon a { text-align: center; display:inline-block; transition: all 400ms; -webkit-transition: all 400ms; -moz-transition: all 400ms; -ms-transition: all 400ms; -o-transition: all 400ms; border-radius: 100%; color: #fff; }
 .social-icon a:hover { background: #fff; box-shadow: 0 0 30px rgba(23,23,23,.25); -moz-transform: translate3d(0, -3px, 0); -o-transform: translate3d(0, -3px, 0); -ms-transform: translate3d(0, -3px, 0); -webkit-transform: translate3d(0, -3px, 0); transform: translate3d(0, -3px, 0); }
+
+
