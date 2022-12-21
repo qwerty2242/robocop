@@ -2,7 +2,7 @@
 .icon-phone-with-text{margin-right: 10px;}
 
 /* social media icon */
-.icon-social { list-style: none; padding: 0; display: inline-block; }
+.icon-social { list-style: none; padding: 0; display: inline-block !important; }
 .icon-social li { display: inline-block; }
 .icon-social li:first-child { margin-left: 0; }
 .icon-social li:last-child{ margin-right: 0; }
